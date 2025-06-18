@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.basis-sm {
+  flex-basis: var(--container-sm);
+}
